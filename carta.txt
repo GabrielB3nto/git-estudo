@@ -1,0 +1,1 @@
+este é um arquivo que criei para estudar mais sobre o git para a atividade prática de POO!!!
